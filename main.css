@@ -1,0 +1,17 @@
+.name{
+    display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+}
+
+.image{
+    margin-left: 30%;
+    border-radius: 50%;
+}
+.hydrogen{
+    font-size: 100px;
+    margin-left: 150%;
+    
+    margin-top: 80px;
+
+}
